@@ -1,2 +1,2 @@
-# APD-Project-Rosu-Razvan-Virgil
+# APD-Project: Rosu-Razvan-Virgil
 Matrix Multiplication.
