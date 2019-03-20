@@ -1,2 +1,2 @@
-# APD-Project
-Matrix Multiplication using MPI.
+# APD-Project-Rosu-Razvan-Virgil
+Matrix Multiplication.
