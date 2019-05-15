@@ -1,5 +1,3 @@
-#pragma once
-
 typdef struct{
 	unsigned int rows;
 	unsigned int cols;

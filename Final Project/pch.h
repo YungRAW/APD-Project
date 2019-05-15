@@ -16,6 +16,8 @@
 #include <malloc.h>
 #include <string.h>
 #include "Matrix.h"
+#include <pthread.h>
+
 
 
 

@@ -2,7 +2,6 @@
 //
 
 #include "pch.h"
-#define ms 500
 using namespace std;
 
 
