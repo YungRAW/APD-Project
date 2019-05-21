@@ -1,4 +1,4 @@
-#include "defs.h"
+#include "pch.h"
 
 double *mat_2D_to_1D(matrix_struct *m) {
     double *matrix = malloc( (m->rows * m->cols) * sizeof(double) );
