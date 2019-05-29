@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\apple\desktop\matrixmultiplication\project2\project2\source.cpp(44): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\apple\desktop\matrixmultiplication\project2\project2\source.cpp(51): warning C4129: 'M': unrecognized character escape sequence
+c:\users\apple\desktop\matrixmultiplication\project2\project2\source.cpp(78): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Project2.vcxproj -> C:\Users\apple\Desktop\MatrixMultiplication\Project2\x64\Debug\Project2.exe
